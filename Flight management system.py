@@ -2,7 +2,7 @@
                                                   #FLIGHT MANAGEMENT SYSTEM
                                                        #USING PYTHON+MYSQL
                                                  #CREATED BY PIYUSH SAMANTA
-                                                #SUBMITTED TO Mrs. Namita Sahu
+        
 
 import mysql.connector              #_______mysql connector package
 
